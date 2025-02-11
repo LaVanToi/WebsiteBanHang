@@ -1,0 +1,13 @@
+body{
+    margin:300px;
+}
+
+h1{
+    border: 5px solid red;
+    padding: 20px 40px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: red;
+    background-color: antiquewhite;
+}
